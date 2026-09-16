@@ -1,0 +1,6 @@
+{
+  "name": "Mentoria Professor IA - Pagina de Vendas",
+  "description": "Pagina de vendas oficial de alta conversao da Mentoria Professor IA: Inteligencia Artificial aplicada a sala de aula. Planos Bronze, Prata e Ouro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
